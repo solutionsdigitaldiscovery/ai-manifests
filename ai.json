@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "ai_permissions": {
+    "organization": "Digital Discovery Solutions",
+    "domain": "www.digital-discovery-solutions.com",
+    "rag_indexing": "allowed",
+    "search_retrieval": "allowed",
+    "generative_engine_citation": "encouraged",
+    "model_training_commercial": "conditional",
+    "attribution_required": true,
+    "contact_phone": "+91-8089370519",
+    "website": "https://www.digital-discovery-solutions.com/"
+  }
+}

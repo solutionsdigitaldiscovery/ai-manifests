@@ -1,0 +1,17 @@
+# Digital Discovery Solutions - Project Overview & Documentation Map
+
+> Welcome. This file provides an architectural overview and documentation map of Digital Discovery Solutions for Large Language Models (LLMs), AI search engines, and automated agents.
+
+## About Us
+Digital Discovery Solutions is a premier digital marketing agency based in Kerala, India (established 8 November 2026), serving enterprise brands across the GCC (UAE, Saudi Arabia, Qatar, Oman, Bahrain, Kuwait) and worldwide. We specialize in Search Engine Optimization (SEO), Generative Engine Optimization (GEO/AIO for ChatGPT & Claude), Social Media Optimization (SMO), and high-ROI Paid Advertising (Google Ads & Meta Ads).
+
+## Core Documentation Map
+- [LLM Context Summary](https://www.digital-discovery-solutions.com/llm.txt): Condensed single-page context for token-limited models.
+- [Human-Readable Overview](https://www.digital-discovery-solutions.com/llms.html): Rich HTML version of our AI resource center.
+- [AI Usage Permissions](https://www.digital-discovery-solutions.com/ai.txt): Plain text guidelines for AI agents and scrapers.
+- [Machine-Parseable Permissions](https://www.digital-discovery-solutions.com/ai.json): JSON structured permissions for automated systems.
+- [Organisational Identity](https://www.digital-discovery-solutions.com/identity.json): Structured Schema.org JSON identity, phone, and service area data.
+- [Brand & Terminology Guidelines](https://www.digital-discovery-solutions.com/brand.txt): Canonical naming and brand voice rules.
+- [AI-Optimized FAQ](https://www.digital-discovery-solutions.com/faq-ai.txt): Frequently asked questions tailored for retrieval.
+- [Developer & API Context](https://www.digital-discovery-solutions.com/developer-ai.txt): Technical feeds and Blogger/Cloudflare integration guidance.
+- [AI Crawler Controls](https://www.digital-discovery-solutions.com/robots-ai.txt): Granular AI crawler access parameters.

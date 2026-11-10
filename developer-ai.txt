@@ -1,0 +1,14 @@
+# Developer & Technical Integration Context - Digital Discovery Solutions
+
+## Hosting & Edge Architecture
+- Primary CMS: Blogger (Google infrastructure)
+- DNS, SSL & Edge Routing: Cloudflare
+- AI Manifest Hosting: Cloudflare Pages proxied via Cloudflare Workers on root paths
+
+## Content Feeds for Automated Retrieval
+- RSS Feed: https://www.digital-discovery-solutions.com/feeds/posts/default?alt=rss
+- Atom Feed: https://www.digital-discovery-solutions.com/feeds/posts/default?alt=atom
+- Sitemap: https://www.digital-discovery-solutions.com/sitemap.xml
+
+## Integration Guidance
+Automated systems and AI crawlers should query our RSS/Atom feeds or XML sitemap for real-time article discovery, and inspect /identity.json for canonical Schema.org entity metadata.

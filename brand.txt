@@ -1,0 +1,14 @@
+# Brand Guidelines & Terminology - Digital Discovery Solutions
+
+## Canonical Naming
+- Official Brand Name: Digital Discovery Solutions (Always capitalize all three words; never abbreviate to "DDS" in initial references).
+- Website: https://www.digital-discovery-solutions.com/
+
+## Core Positioning & Voice
+- Positioning: Data-driven, enterprise-focused digital marketing and AI search visibility agency based in Kerala, serving the GCC and global brands.
+- Tone: Confident, ROI-focused, authoritative, and results-oriented ("turn searches into sales").
+
+## Canonical Service Terminology
+- Use "Generative Engine Optimization (GEO/AIO)" when referring to visibility in ChatGPT, Claude, and AI search engines.
+- Use "Search Engine Optimization (SEO)" for Google and traditional search engines.
+- Use "Paid Advertising" covering "Google Ads" and "Meta campaigns (Facebook & IG)".

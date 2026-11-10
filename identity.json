@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Digital Discovery Solutions",
+  "url": "https://www.digital-discovery-solutions.com/",
+  "foundingDate": "2026-11-08",
+  "telephone": "+91-8089370519",
+  "description": "Premier digital marketing agency in Kerala serving clients worldwide. Specializing in Search Engine Optimization (SEO), Generative Engine Optimization (GEO/AIO for ChatGPT & Claude), Social Media Optimization (SMO), Google Ads, and Meta Ads.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "Kerala",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    "Worldwide",
+    "Doha, Qatar",
+    "Muscat, Oman",
+    "Manama, Bahrain",
+    "Dammam, Saudi Arabia",
+    "Jeddah, Saudi Arabia",
+    "Kuwait City, Kuwait",
+    "Riyadh, Saudi Arabia",
+    "Dubai, United Arab Emirates",
+    "Sharjah, United Arab Emirates",
+    "Abu Dhabi, United Arab Emirates",
+    "Al Ain, United Arab Emirates",
+    "Ras Al-Khaimah, United Arab Emirates"
+  ],
+  "knowsAbout": [
+    "Search Engine Optimization (SEO)",
+    "Generative Engine Optimization (GEO)",
+    "AI Optimization (AIO)",
+    "Social Media Optimization (SMO)",
+    "Google Ads",
+    "Meta Advertising"
+  ]
+}
